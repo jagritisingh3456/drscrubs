@@ -1,0 +1,11 @@
+
+.slick-slider.gp15 .slick-slide {
+    padding: 0 15px;
+}
+.hero-inner {
+    position: relative;
+    padding: 40px 0;
+    height: 100%;
+    z-index: 2;
+    margin-top: -35rem;
+}
